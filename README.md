@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Quang Minh. <img src="https://user-images.githubusercontent.com/49482201/126591888-470f4965-6629-4b15-ab27-70be72148fe4.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/49482201/126591963-c6972900-bfde-48d4-841d-d84ef26aaadf.gif" width="500"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/49482201/126591963-c6972900-bfde-48d4-841d-d84ef26aaadf.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -18,12 +18,12 @@
 - 🖥 &nbsp; Jira | Figma | Photoshop
 
 <br>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MinhOmega&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MinhOmega&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhOmega&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhOmega&layout=compact&text_color=daf7dc&bg_color=151515">
+<br></br><br></br><br></br><br></br>
+</p>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
