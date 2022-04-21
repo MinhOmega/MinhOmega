@@ -7,7 +7,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software technology and Mathematics in Hue science university.
 - 💼 &nbsp; React native developer and front-end web developer base in ReactJS.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching film, sport, esport. My favorite is game and dev
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
@@ -35,6 +34,5 @@
 &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/minmeows/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/minh-vo-75208b201/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:vnqminh0502@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-  &nbsp; <a href="https://open.spotify.com/user/5zfixcuep8s3rtixuzhkcez5h" target="_blank" rel="noopener noreferrer"><img src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg"  width="45" /></a>
+&nbsp; <a href="mailto:vnqminh0502@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" />
 </p>
