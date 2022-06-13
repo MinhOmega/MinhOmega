@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Android | React native | ReactJS | HTML | CSS | JavaScript | Graphql
+- 💻 &nbsp; Android | React native | ReactJS | NextJS | HTML | CSS | Bootstrap | JavaScript | RESTful api | Graphql
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git
 - 🖥 &nbsp; Jira | Figma | Photoshop
 
