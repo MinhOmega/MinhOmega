@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software technology and Mathematics in Hue science university.
-- 💼 &nbsp; React native developer and front-end web developer base in ReactJS.
+- 💼 &nbsp; React native developer and front-end web developer base in ReactJS and NextJS.
 - ✍️ &nbsp; Watching film, sport, esport. My favorite is game and dev
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
