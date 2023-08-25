@@ -1,14 +1,14 @@
-<h2> Hey there! I'm Quang Minh. <img src="https://user-images.githubusercontent.com/49482201/126591888-470f4965-6629-4b15-ab27-70be72148fe4.gif" width="25"></h2>
+<h2> Hey there! I'm MinhVo. <img src="https://user-images.githubusercontent.com/49482201/126591888-470f4965-6629-4b15-ab27-70be72148fe4.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/49482201/126591963-c6972900-bfde-48d4-841d-d84ef26aaadf.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software technology and Mathematics in Hue science university.
-- 💼 &nbsp; React native developer and front-end web developer base in ReactJS and NextJS.
-- ✍️ &nbsp; Watching film, sport, esport. My favorite is game and dev
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🎓 &nbsp; Studying Software technology and Mathematics at Hue Science University.
+- 💼 &nbsp; React native developer and front-end web developer based in ReactJS and NextJS.
+- ✍️ &nbsp; Watching films, sports, and esports. My favorite is gaming and development.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
