@@ -25,7 +25,7 @@
 <a href="https://github.com/MinhOmega">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MinhOmega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MinhOmega&layout=compact&langs_count=8&theme=dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MinhOmega&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MinhOmega&theme=dark&ring=EB5454"/>
 </a>
 </p>
 </p>
