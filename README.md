@@ -15,7 +15,6 @@
 - 💻 &nbsp; Android | React Native | ReactJS | NextJS | HTML | CSS | Bootstrap | JavaScript | TypeScript | RESTful api | Graphql
 - 🔧 &nbsp; Android Studio | Visual Studio Code | Git
 - 🖥 &nbsp; Jira | Figma | Photoshop
-- <svg width="19" height="19" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M21.5 3h-19A1.504 1.504 0 0 0 1 4.5v15A1.5 1.5 0 0 0 2.5 21h19a1.5 1.5 0 0 0 1.5-1.5v-15A1.504 1.504 0 0 0 21.5 3zm.5 16.5a.501.501 0 0 1-.5.5h-19a.501.501 0 0 1-.5-.5v-15a.506.506 0 0 1 .5-.5h19a.506.506 0 0 1 .5.5zM5.354 15.354l-.707-.707L7.793 11.5 4.646 8.354l.707-.707L9.207 11.5zM15 15h-5v-1h5z"/><path fill="none" d="M0 0h24v24H0z"/></svg> &nbsp; Warp | iTerm2
 
 
 
@@ -26,7 +25,7 @@
 <a href="https://github.com/MinhOmega">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MinhOmega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MinhOmega&layout=compact&langs_count=8&theme=dark"/>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MinhOmega&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MinhOmega&theme=dark"/>
 </a>
 </p>
 </p>
