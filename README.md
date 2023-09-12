@@ -40,6 +40,4 @@
 &nbsp; <a href="mailto:vnqminh0502@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" />
 </p>
 
-<h3>👀 View</h3>
-
-[![](https://visitcount.itsvg.in/api?id=minhomega&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<p align="center"> <img  height="30em" src="https://komarev.com/ghpvc/?username=MinhOmega&label=Profile%20views&color=0e75b6&style=flat" alt="MinhOmega" /> </p>
