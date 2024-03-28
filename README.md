@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I'm currently learning Node.js and focusing on Express.js and Nest.js.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software technology and Mathematics at Hue Science University.
 - 💼 &nbsp; React native developer and front-end web developer based in ReactJS and NextJS.
