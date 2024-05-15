@@ -28,9 +28,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MinhOmega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MinhOmega&layout=compact&langs_count=8&theme=dark"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=MinhOmega&theme=dark&ring=EB5454"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=MinhOmega&bg_color=000000&color=ffffff&line=ffffff&point=eb5454&area=true&hide_border=true"/>
 </a>
 </p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 
@@ -43,4 +43,4 @@
 &nbsp; <a href="mailto:vnqminh0502@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" />
 </p>
 
-<p align="center"> <img height="30em" src="https://komarev.com/ghpvc/?username=MinhOmega&label=Profile%20views&color=0e75b6&style=flat" alt="MinhOmega" /> </p>
+<p align="center"> <img height="30em" src="https://komarev.com/ghpvc/?username=MinhOmega&label=Profile%20views&color=0e75b6&style=flat" alt="MinhOmega" /> </p>Ï
