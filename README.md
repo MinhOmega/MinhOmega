@@ -5,27 +5,30 @@
 
 - 🔭 &nbsp; I'm currently learning Node.js and focusing on Express.js and Nest.js.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software technology and Mathematics at Hue Science University.
+- 🎓 &nbsp; Studying Software Technology and Mathematics at Hue Science University.
 - 💼 &nbsp; React native developer and front-end web developer based in ReactJS and NextJS.
 - ✍️ &nbsp; Watching films, sports, and esports. My favorite is gaming and development.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Android | React Native | ReactJS | NextJS | HTML | CSS | Bootstrap | JavaScript | TypeScript | RESTful api | Graphql
+- 💻 &nbsp; ReactJs | NextJs | NestJS | JavaScript | TypeScript | RESTful api | Graphql
+- 🖍️ &nbsp; Tailwind CSS | Chakra UI | Shadcn UI | SCSS
+- 📱 &nbsp; Android | React Native
 - 🔧 &nbsp; Android Studio | Visual Studio Code | Git
-- 🖥 &nbsp; Jira | Figma | Photoshop
+- 🖥 &nbsp; Jira | Trello | Figma | Photoshop
 
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Stats and Activity
 
 <p align="center">
 <a href="https://github.com/MinhOmega">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MinhOmega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MinhOmega&layout=compact&langs_count=8&theme=dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MinhOmega&theme=dark&ring=EB5454"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=MinhOmega&theme=dark&ring=EB5454"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=MinhOmega&bg_color=000000&color=ffffff&line=ffffff&point=eb5454&area=true&hide_border=true"/>
 </a>
 </p>
 </p>
