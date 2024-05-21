@@ -29,7 +29,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MinhOmega&layout=compact&langs_count=8&theme=dark"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=MinhOmega&theme=dark&ring=EB5454"/>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </a>
 </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
