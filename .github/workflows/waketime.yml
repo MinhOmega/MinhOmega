@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-charts:
-    name: Update wakatime stats charts
+    name: Update stats charts
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
