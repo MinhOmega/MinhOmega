@@ -3,19 +3,19 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I'm currently learning Node.js and focusing on Express.js and Nest.js.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Technology and Mathematics at Hue Science University.
-- 💼 &nbsp; React native developer and front-end web developer based in ReactJS and NextJS.
-- ✍️ &nbsp; Watching films, sports, and esports. My favorite is gaming and development.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; I'm currently working as a Frontend Engineer at SNAPTEC, focusing on React.js, Next.js, and React Native.
+- 🤔 &nbsp; Exploring advanced frontend technologies and continuously improving project performance and user experience.
+- 🎓 &nbsp; Graduated with a Bachelor's degree in Software Engineering from Hue University of Sciences.
+- 💼 &nbsp; Experienced in SaaS, e-commerce, and mobile app development with a strong background in JavaScript, TypeScript, and GraphQL.
+- ✍️ &nbsp; Passionate about mentoring and training junior developers, as well as gaming and personal development.
+- ☕ &nbsp; I believe a perfect cup of coffee is the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; ReactJs | NextJs | NestJS | JavaScript | TypeScript | RESTful api | Graphql
-- 🖍️ &nbsp; Tailwind CSS | Chakra UI | Shadcn UI | SCSS
-- 📱 &nbsp; Android | React Native
-- 🔧 &nbsp; Android Studio | Visual Studio Code | Git
+- 💻 &nbsp; ReactJS | NextJS | Redux | JavaScript | TypeScript | GraphQL | RESTful APIs
+- 🖍️ &nbsp; Tailwind CSS | Chakra UI | Shadcn UI | SCSS | styled-components
+- 📱 &nbsp; React Native | Android Studio
+- 🔧 &nbsp; Firebase Services | Visual Studio Code | Git | AWS S3 | AWS AppSync
 - 🖥 &nbsp; Jira | Trello | Figma | Photoshop
 
 
@@ -43,7 +43,6 @@ Python        1 hr 44 mins    █▒░░░░░░░░░░░░░░�
 </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
