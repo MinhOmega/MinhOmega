@@ -4,6 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I'm currently looking for a new job, focusing on React.js, Next.js, and React Native.
+- 🚀 &nbsp; Building [Buy or Bye](https://buyorbye.minhvo.site): post what you're about to buy (or watch, play, eat, visit) and the community votes Buy it or Bye. 4 languages, installable PWA, MCP-ready for AI agents.
 - 🤔 &nbsp; Exploring advanced frontend technologies and continuously improving project performance and user experience.
 - 🎓 &nbsp; Graduated with a Bachelor's degree in Software Engineering from Hue University of Sciences.
 - 💼 &nbsp; Experienced in SaaS, e-commerce, and mobile app development with a strong background in JavaScript, TypeScript, and GraphQL.
